@@ -23,3 +23,12 @@ class WordTree(object):
             else:
                 return 0
         return self.size
+
+n = int(input().strip())
+word_tree = WordTree('')
+for a0 in range(n):
+    op, contact = input().strip().split(' ')
+    if op == "add":
+        word_tree.add_word(contact)
+    elif op == 'find':
+        print(word_tree.search(contact))
