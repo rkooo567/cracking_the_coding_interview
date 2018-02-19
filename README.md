@@ -9,5 +9,6 @@
   6. __Trees: Is This a Binary Search Tree?__ (is_binary_tree)
   7. __Sorting: Bubble Sort__ (bubble_sort)
   8. __Sorting: Comparator__ (comparator)
+  9. __Stacks: Balanced Brackets__ (balanced_brackets)
   
 _**reference: Hackerrank**_
