@@ -10,5 +10,6 @@
   7. __Sorting: Bubble Sort__ (bubble_sort)
   8. __Sorting: Comparator__ (comparator)
   9. __Stacks: Balanced Brackets__ (balanced_brackets)
+  10. __Queues: A Table of Two Stacks__ (queue)
   
 _**reference: Hackerrank**_
