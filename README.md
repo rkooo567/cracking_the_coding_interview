@@ -11,5 +11,6 @@
   8. __Sorting: Comparator__ (comparator)
   9. __Stacks: Balanced Brackets__ (balanced_brackets)
   10. __Queues: A Table of Two Stacks__ (queue)
+  11. __Hash Tables: Ice Cream Parlor__ (ice_cream_parlor)
   
 _**reference: Hackerrank**_
